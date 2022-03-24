@@ -82,3 +82,11 @@ h1, h2, h3, p {
 input[type="search"]::-webkit-search-cancel-button {
     display: none;
 }
+
+@media (max-width: 560px) {
+    .container {
+        padding-left: 15px;
+        padding-right: 15px; 
+    }    
+}
+
