@@ -38,16 +38,13 @@ const getDateCorrectFormat = isoDate => {
 const getImage = url => new Promise((resolve) => {
     const image = new Image(270, 200);
 
-
     image.addEventListener('load', () => {
         resolve(image);
     });
-
     image.addEventListener('error', () => {
         image.src = 'image/no-photo.jpg';
         resolve(image);
     });
-
     image.src = url || 'image/no-photo.jpg';
     image.className = 'news-image';
     return image;
@@ -110,3 +107,5 @@ formSearch.addEventListener('submit', event => {
 });
 
 loadNews();
+
+
