@@ -141,8 +141,7 @@
 
 .news-author {
     display: block;
-    margin-right: 0;
-    margin-left: 50px;
+    padding-left: 30px;
 }
 
 .footer {
@@ -197,7 +196,7 @@
 }
 
 .preload {
-    background-image: url('../image/preload.svg');
+    background-image: url('../image/preload1.png');
     background-repeat: no-repeat;
     background-position: center;
     margin: 0 auto;
@@ -244,4 +243,3 @@
         order: 1;
     }
 }
-
