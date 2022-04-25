@@ -1,5 +1,5 @@
-## Проект: «Агрегатор новостей»
+## Project: "News aggregator"  
 
-### Описание:
-Проект создан в рамках интенсива, проведенного онлайн-школой [Methed](https://methed.ru/).  
-Сайт не размещен в сети Интернет. Доступ к новостной странице возможен после скачивания архива и запуска его в локальной сети. 
+### Description:  
+The project was created as part of an intensive course conducted by the [Methed](https://methed.ru/) online school.  
+The site is not hosted on the Internet. Access to the news page is possible after downloading the archive and running it on the local network.  
