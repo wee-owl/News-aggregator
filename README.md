@@ -1,4 +1,4 @@
-## Project: "News aggregator"  
+## Project: ["News aggregator"](https://wee-owl.github.io/News-aggregator/)
 
 ### Description:  
 The project was created as part of an intensive course conducted by the [Methed](https://methed.ru/) online school.  
